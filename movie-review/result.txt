@@ -1,0 +1,5 @@
+
+accuracy of MultinomialNB on Tf -Idf Tf-IdfDistribution = 0.583200790956
+accuracy of RandomForestClassifier = 0.63227012853
+accuracy of SVM Classifier =  0.556355586124
+ accuracy of logistic Classifier = 0.617160297468

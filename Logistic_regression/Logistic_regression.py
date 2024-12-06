@@ -1,6 +1,3 @@
-# python implementation of Logistic regression on the student marks dataset of Andrew Ng's ML course.
-# The dataset consists of 100 datapoints . All the datapoints are used to train the the model.
-# Note: Data could be split into test and training data.
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
